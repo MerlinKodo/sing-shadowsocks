@@ -3,10 +3,10 @@ package shadowimpl
 import (
 	"time"
 
-	"github.com/metacubex/sing-shadowsocks"
-	"github.com/metacubex/sing-shadowsocks/shadowaead"
-	"github.com/metacubex/sing-shadowsocks/shadowaead_2022"
-	"github.com/metacubex/sing-shadowsocks/shadowstream"
+	shadowsocks "github.com/MerlinKodo/sing-shadowsocks"
+	"github.com/MerlinKodo/sing-shadowsocks/shadowaead"
+	"github.com/MerlinKodo/sing-shadowsocks/shadowaead_2022"
+	"github.com/MerlinKodo/sing-shadowsocks/shadowstream"
 	"github.com/sagernet/sing/common"
 	E "github.com/sagernet/sing/common/exceptions"
 )

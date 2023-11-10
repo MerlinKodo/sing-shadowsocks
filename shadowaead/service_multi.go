@@ -7,7 +7,7 @@ import (
 	"net"
 	"net/netip"
 
-	"github.com/metacubex/sing-shadowsocks"
+	shadowsocks "github.com/MerlinKodo/sing-shadowsocks"
 	"github.com/sagernet/sing/common/auth"
 	"github.com/sagernet/sing/common/buf"
 	E "github.com/sagernet/sing/common/exceptions"

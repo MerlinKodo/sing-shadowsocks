@@ -10,7 +10,7 @@ import (
 	"net"
 	"os"
 
-	"github.com/metacubex/sing-shadowsocks"
+	shadowsocks "github.com/MerlinKodo/sing-shadowsocks"
 	"github.com/sagernet/sing/common"
 	"github.com/sagernet/sing/common/buf"
 	M "github.com/sagernet/sing/common/metadata"
